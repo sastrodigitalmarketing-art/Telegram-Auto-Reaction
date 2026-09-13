@@ -1,2 +1,0 @@
-# Telegram bot framework used for long polling and setMessageReaction.
-python-telegram-bot>=22.8,<23
